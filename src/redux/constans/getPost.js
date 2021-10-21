@@ -1,0 +1,7 @@
+export const GET_POST_REQUEST = "GET_POST_REQUEST"
+export const GET_POST_SUCCESS = "GET_POST_SUCCESS"
+export const GET_POST_ERROR = "GET_POST_ERROR"
+
+// export const GET_POST_BY_ID_REQUEST = "GET_POST_BY_ID_REQUEST"
+// export const GET_POST_BY_ID = "GET_POST_BY_ID"
+
